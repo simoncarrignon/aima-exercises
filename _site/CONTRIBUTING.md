@@ -72,7 +72,7 @@ The present version of AIMA-Exercises uses Jekyll 3 and ruby 2.5.
       `---`
      `Your answer here.`
 
-If you still have any qeries/doubts regarding the project, feel free to join our [Gitter channel](https://gitter.im/aimacode/Lobby).
+If you still have any qeries/doubts regarding the project, feel free to join our [Gitter channel](https://gitter.im/simoncarrignon/Lobby).
 Feel free to create a new issue if you find any bugs in the project that requires our attention or you may even send a Pull Request for fixing it. :)
 
 
